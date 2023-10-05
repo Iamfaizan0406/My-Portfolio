@@ -43,7 +43,7 @@
 
  // <!-- typed js effect starts -->
  var typed = new Typed(".typing-text", {
-     strings: ["front end development", "Competitive Coading", "web development"],
+     strings: ["front end development", "Competitive Coding", "web development"],
      loop: true,
      typeSpeed: 50,
      backSpeed: 25,
